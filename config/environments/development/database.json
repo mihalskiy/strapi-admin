@@ -1,0 +1,17 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "strapi-hook-bookshelf",
+      "settings": {
+        "client": "mysql",
+        "host": "database-2.cut4exau0x2a.us-east-2.rds.amazonaws.com",
+        "port": "3306",
+        "database": "dbname",
+        "username": "admin",
+        "password": "1q2w3e4r"
+      },
+      "options": {}
+    }
+  }
+}
